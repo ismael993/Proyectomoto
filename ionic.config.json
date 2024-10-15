@@ -1,0 +1,7 @@
+{
+  "name": "MyAppMoto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

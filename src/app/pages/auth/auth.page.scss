@@ -1,0 +1,10 @@
+ion-content {
+    --background: url('/assets/img/paisajes.jpg') no-repeat center center / cover;
+  }
+  
+  .d-flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
